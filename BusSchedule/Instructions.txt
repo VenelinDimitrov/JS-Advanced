@@ -1,0 +1,1 @@
+Before testing the program, please be sure to start the server through the console - node server.js
